@@ -1,7 +1,8 @@
 <?php
-use App\Holiday;
+
 use Illuminate\Database\Seeder;
 use Faker\Generator as Faker;
+use App\Holiday;
 class HolidaySeeder extends Seeder
 {
     /**
